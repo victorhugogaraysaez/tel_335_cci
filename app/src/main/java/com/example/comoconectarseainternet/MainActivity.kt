@@ -56,10 +56,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun imageLoad() {
         urlList = listOf<String>(
-            "https://www.ngenespanol.com/wp-content/uploads/2018/08/Desierto-de-Atacama-podr%C3%ADa-albergar-microorganismos-marcianos.jpg",
-            "https://mars.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631300503690E01_DXXX.jpg",
-            "https://mars.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631290503689E01_DXXX.jpg",
-            "https://www3.gobiernodecanarias.org/medusa/ecoblog/msuaump/files/2012/11/desierto-atacama.jpg"
+            "https://www.telegraph.co.uk/content/dam/news/2023/02/09/TELEMMGLPICT000324730122_trans_NvBQzQNjv4BqR19G9Wkz1kuyhSe1xOMz-J-adDIVBzhyFO8H9Zf04-A.jpeg?imwidth=960",
+            "https://www3.gobiernodecanarias.org/medusa/ecoblog/msuaump/files/2012/11/desierto-atacama.jpg",
+            "https://galeriabucci.cl/wp-content/themes/yootheme/cache/shutterstock_365514371-ba19307b.jpeg",
+            "https://www.telegraph.co.uk/content/dam/news/2023/02/09/TELEMMGLPICT000324730122_trans_NvBQzQNjv4BqR19G9Wkz1kuyhSe1xOMz-J-adDIVBzhyFO8H9Zf04-A.jpeg"
         )
     }
 
