@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
             "https://www.telegraph.co.uk/content/dam/news/2023/02/09/TELEMMGLPICT000324730122_trans_NvBQzQNjv4BqR19G9Wkz1kuyhSe1xOMz-J-adDIVBzhyFO8H9Zf04-A.jpeg?imwidth=960",
             "https://www3.gobiernodecanarias.org/medusa/ecoblog/msuaump/files/2012/11/desierto-atacama.jpg",
             "https://galeriabucci.cl/wp-content/themes/yootheme/cache/shutterstock_365514371-ba19307b.jpeg",
-            "https://www.telegraph.co.uk/content/dam/news/2023/02/09/TELEMMGLPICT000324730122_trans_NvBQzQNjv4BqR19G9Wkz1kuyhSe1xOMz-J-adDIVBzhyFO8H9Zf04-A.jpeg"
+            "https://www.popsci.com/uploads/2022/03/08/mars-flower-curiosity-rover-imahe.jpg",
         )
     }
 
